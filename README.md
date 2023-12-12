@@ -8,7 +8,7 @@
 
 ### [week10](https://github.com/Bottomdeal/game/tree/main/Week10)
 
-### [week11](https://github.com/Bottomdeal/game/tree/main/Week11)
+### [week11](https://github.com/Bottomdeal/game/tree/main/week11)
 
 ### [week12](https://github.com/Bottomdeal/game/tree/main/Week12)
 
