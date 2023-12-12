@@ -1,6 +1,6 @@
 # game
 
-### [week3] (https://github.com/Bottomdeal/game/tree/main/week3)
+### [week3](https://github.com/Bottomdeal/game/tree/main/week3)
 
 ### [week4] (https://github.com/Bottomdeal/game/tree/main/week4)
 
