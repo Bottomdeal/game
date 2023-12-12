@@ -14,4 +14,4 @@
 
 ### [week13](https://github.com/Bottomdeal/game/tree/main/week13)
 
-### [week14](https://github.com/Bottomdeal/game/tree/main/week14)
+### [week14](https://github.com/Bottomdeal/game/tree/main/Week14)
